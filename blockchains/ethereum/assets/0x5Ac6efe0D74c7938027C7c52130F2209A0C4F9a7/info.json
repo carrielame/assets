@@ -10,5 +10,15 @@
     "id": "0x5Ac6efe0D74c7938027C7c52130F2209A0C4F9a7",
     "tags": [
         "memes"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AVAVCommunity"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/AVAV_official"
+        }
     ]
 }
